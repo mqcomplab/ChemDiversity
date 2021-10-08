@@ -20,4 +20,4 @@ NetworkX
 
 Please, cite the associated manuscript:
 
-"Diversity and Extended Chemical Space Networks of Large Datasets", T. B. Dunn, G. M. Seabra, T. D. Kim, K. E. Juarez-Mercado, C. Li, J. L. Medina-Franco, R. A. Miranda-Quintana, J. Chem. Inf. Model. (2021), submitted.
+"Diversity and Chemical Library Networks of Large Datasets", T. B. Dunn, G. M. Seabra, T. D. Kim, K. E. Juarez-Mercado, C. Li, J. L. Medina-Franco, R. A. Miranda-Quintana, J. Chem. Inf. Model. (2021), submitted.
